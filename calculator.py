@@ -1,0 +1,6 @@
+print("Simple Calculator")
+print("1 = add")
+print("2 = substract")
+print("3 = divide")
+print("4 =  multiply")
+option = int(input("choose an operation: "))
